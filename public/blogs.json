@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/f40RQ2v/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Journey Beyond",
+      "author": "Jane Doe",
+      "author-img": "https://i.ibb.co.com/HBSK6YZ/mid-shot-woman-table-reading-book.jpg",
+      "reading-time": 5,
+      "posted_date": "2024-10-20",
+      "hashing_tag": "#Adventure"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/4PJ9WPM/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Mysteries of the Deep",
+      "author": "John Smith",
+      "author-img": "https://i.ibb.co.com/0hPcp9S/front-view-serious-office-worker-sitting-table.jpg",
+      "reading-time": 8,
+      "posted_date": "2024-10-18",
+      "hashing_tag": "#Mystery"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/60bqSry/flat-lay-work-desktop-with-notebook-keyboard.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Emily Clark",
+      "author-img": "https://i.ibb.co.com/9WTKxFd/mature-lady-with-short-hair-looking-away.jpg",
+      "reading-time":6,
+      "posted_date": "2024-10-15",
+      "hashing_tag": "#Fantasy"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/Hnv48fh/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
+      "title": "Echoes of the Past",
+      "author": "Michael Lee",
+      "author-img": "https://i.ibb.co.com/R7LpWzq/indoor-picture-serious-young-woman-stylish-blouse-resting-hands-wooden-table-having-cappuccino-coffe.jpg",
+      "reading-time": 7,
+      "posted_date": "2024-10-10",
+      "hashing_tag": "#Historical"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/yWMmN4g/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+      "title": "Shadows of Tomorrow",
+      "author": "Sarah Johnson",
+      "author-img": "https://i.ibb.co.com/MVRKWqr/young-teacher-trying-write-notes-class.jpg",
+      "reading-time": 4,
+      "posted_date": "2024-10-05",
+      "hashing_tag": "#SciFi"
+    }
+  ]
+  
